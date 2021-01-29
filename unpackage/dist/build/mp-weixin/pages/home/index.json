@@ -1,0 +1,6 @@
+{
+  "backgroundTextStyle": "dark",
+  "usingComponents": {
+    "detail-product": "/components/DetailProduct"
+  }
+}
